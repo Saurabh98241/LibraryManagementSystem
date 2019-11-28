@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace BusinessLogic.EntityClass
 {
     public class AuthorEntity
-    {//tttttttt
+    {//ttttttttrrrrr
         public int AuthorId { get; set; }
         public string AutherName { get; set; }
         public string AutherEmail { get; set; }
