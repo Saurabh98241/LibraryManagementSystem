@@ -8,7 +8,7 @@ namespace BusinessLogic.EntityClass
 {
    public class BookEntity
     {
-        //Author : Saurabh123
+        //Author : Saurabh12345
         public int BookId { get; set; }
         public string BookTitle { get; set; }
         public int BookCategoryId { get; set; }
