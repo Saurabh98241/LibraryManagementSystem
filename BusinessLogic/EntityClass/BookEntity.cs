@@ -8,6 +8,7 @@ namespace BusinessLogic.EntityClass
 {
    public class BookEntity
     {
+        //Author : Saurabh
         public int BookId { get; set; }
         public string BookTitle { get; set; }
         public int BookCategoryId { get; set; }
@@ -16,5 +17,6 @@ namespace BusinessLogic.EntityClass
         public string Release_Year { get; set; }
         public int Quantity { get; set; }
         public Nullable<bool> isAvailable { get; set; }
+        
     }
 }
